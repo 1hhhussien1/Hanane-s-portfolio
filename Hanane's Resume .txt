@@ -1,0 +1,96 @@
+﻿Summary
+- Motivated and detail-oriented recent Software Development graduate with a strong foundation in Java, Python, JavaScript, Web Development, and App Development. Proficient in SQL and committed to continuous learning. Fluent in Amharic, proficient in English and Arabic, and currently learning Spanish. Recognized for achieving honor roll status in high school and dedicated to leveraging my technical skills and enthusiasm for software engineering to contribute effectively to team projects and client solutions.
+
+
+
+
+RESUME 
+1. PERSONAL DETAILS
+    
+ Name:                    Hanane  Hussien
+ 
+Email:                Hananehussien@gmail.com 
+Linkedin:              www.linkedin.com/in/hanane-hussien-404710278
+Phone :                  (206)742-2712        
+Address:                 Seattle,WA
+
+
+2. Skills
+      
+1. Language Skills:
+Amharic:- Fluent
+English:- Proficient
+Arabic :- Proficient
+Spanish :- Learning
+
+
+---------------
+
+
+2. Technical Skills:
+
+
+Programming Languages:   Java, JavaScript, Python, SQL, HTML, CSS
+Web Development:  HTML, CSS, JavaScript, Responsive Design
+App Development:  Java, Android Development
+Database Management:  SQL
+
+
+
+
+3. EDUCATION 
+
+
+1. Seattle Central College ,  Seattle, WA
+Associates  of Science in Software Development, [June, 2025]
+
+
+2. Rainier Beach High School, Seattle, WA
+High School Diploma, [June, 2022]
+
+
+
+
+
+
+
+
+________________
+
+
+3. EXPERIENCE
+________________
+
+
+
+
+
+
+Software Development Projects:
+Seattle Central College , Seattle, WA  
+[June, 2022] – [June, 2025]
+
+
+
+
+1.Restaurant Sample Website
+- Developed a responsive website using HTML, CSS, and JavaScript, improving user engagement.
+- Implemented a booking system using JavaScript, enhancing the functionality and user experience of the website.
+
+
+2. Fitness Tracker App
+-  Designed and developed an Android app using Java, which tracked fitness activities for users.
+- Optimized the app's performance and fixed bugs to enhance user satisfaction.
+- Managed a SQL database to store user data securely and efficiently.
+
+
+Volunteer Experience:
+-Islamic Community EMAS  
+[Seattle, WA]  
+
+
+
+
+ Additional Information:
+- Certifications: Honor Roll
+- Project Website: https://web-students.net/site124/fp/template.html
